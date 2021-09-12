@@ -27,4 +27,8 @@ to click on the "UFO Sightings" text in the upper left corner of the page to res
 
 
 ## SUMMARY
-
+One drawback of the web app is the text input of the search criteria is case sensitive. So if user inputs "CA" instead of "ca" there will be no results.
+The user will not know what to do to correct the search filter. So maybe there needs to be an error message to remind user to only use lower case 
+text for the search function to work. Also I would put the page reset button, "UFO Sightings" in upper left corner, further down the page closer to 
+the search filters. This will allow user to quickly reset filters to do further searches without having to constantly scroll up to reset after
+each search. 
